@@ -1,0 +1,56 @@
+.primary {
+    color: rgb(6, 77, 143);
+}
+
+.secondary {
+    color: #666;
+}
+
+.info {
+    color: rgb(96, 127, 156);
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.small {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.center {
+    text-align: center;
+}
+
+.facture {
+    margin: 40px;
+    border: 1px solid #f5f3f3;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px rgb(226, 216, 216);
+}
+
+.card .row {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+th,
+td {
+    padding: 16px;
+}
+thead tr {
+    border-bottom: 1px solid #E0E0E0;
+}
+  tbody tr{
+      border-bottom: 1px solid #E0E0E0;
+  }
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,24 @@
+{
+    "nav": {
+        "ministere": "Ministère des affaires économiques et de la promotion des secteurs productifs",
+        "direction": "Direction Générale des politiques et strategies de developpement"
+    },
+    "filtre": {
+        "wilaya": "Wilaya",
+        "moughataa": "Moughataa",
+        "commune": "Commune",
+        "indicateur": "Indicateur",
+        "annee": "Année",
+        "no_data": "Pas de données"
+    },
+    "title": "Indicateurs pour le suivi national des ODD, de la SCAPP et de la SCRAPP",
+    "scapp": {
+        "title": "Stratégie de Croissance Accélérée et de la Prospérité Partagée"
+    },
+    "scrapp": {
+        "title": "Stratégie de Croissance Régionale Accélérée et de Prospérité Partagée"
+    },
+    "odd": {
+        "title": "Objectifs de Développement Durable"
+    }
+}
